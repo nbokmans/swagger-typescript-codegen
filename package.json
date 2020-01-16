@@ -1,0 +1,13 @@
+{
+  "name": "generate-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "generateApi": "node scripts/generateApi.js"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "swagger-typescript-codegen": "^3.0.3"
+  }
+}
