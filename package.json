@@ -7,7 +7,7 @@
     "generateApi": "node scripts/generateApi.js"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "swagger-typescript-codegen": "^3.0.3"
   }
 }
